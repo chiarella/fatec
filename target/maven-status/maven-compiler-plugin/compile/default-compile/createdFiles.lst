@@ -1,0 +1,10 @@
+br/com/fatecservicemain/domain/User.class
+br/com/fatecservicemain/dto/UserCreateDTO.class
+br/com/fatecservicemain/service/UserService.class
+br/com/fatecservicemain/dto/UserDTO$UserDTOBuilder.class
+br/com/fatecservicemain/dto/UserCreateDTO$UserCreateDTOBuilder.class
+br/com/fatecservicemain/repository/UserRepository.class
+br/com/fatecservicemain/dto/UserDTO.class
+br/com/fatecservicemain/FatecServiceMainApplication.class
+br/com/fatecservicemain/domain/User$UserBuilder.class
+br/com/fatecservicemain/controller/UserController.class
