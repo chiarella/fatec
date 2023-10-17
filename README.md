@@ -15,5 +15,15 @@ Após subir a aplicação(local) entre no seu navegador e copie o seguinte ender
 link: http://localhost:8050/fatec/swagger-ui.html.<br>
 
 ### Especificações da aplicação
+<br>
+Java 11<br>
+API REST<br>
+Spring Boot<br>
+H2<br>
+JPA<br>
+Hibernate<br>
+Arquitetura MVC<br>
+Swagger<br>
+
 
 
