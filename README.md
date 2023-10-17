@@ -8,7 +8,7 @@ Ir em "Run As". <br>
 E clique em "Java Application". <br>
 
 ### Para simular o front-end.
-Simulamos o front-end pelo swagger para inserir, ler, alterar ou apagar dados na aplicação back-end.<br>
+Simulamos o front-end pelo swagger para inserir, ler, alterar ou apagar dados através de requisições na aplicação back-end.<br>
 Após subir a aplicação entre no seu navegador e cole o seguinte endereço abaixo.<br>
 link: http://localhost:8050/fatec/swagger-ui.html.<br>
 
